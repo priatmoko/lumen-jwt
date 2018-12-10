@@ -1,5 +1,5 @@
-# Implemets JWT on lumen
-Details
+# Implements JWT on lumen
+You can follow the steps and explanation on this link
 https://medium.com/tech-tajawal/jwt-authentication-for-lumen-5-6-2376fd38d454
 
 
