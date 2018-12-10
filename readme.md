@@ -1,3 +1,8 @@
+# Implemets JWT on lumen
+Details
+https://medium.com/tech-tajawal/jwt-authentication-for-lumen-5-6-2376fd38d454
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
